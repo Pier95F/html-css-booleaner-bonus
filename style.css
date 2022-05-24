@@ -1,1 +1,33 @@
-/* header /*
+/* commons */
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-lightblue {
+    background-color: lightblue;
+    color: white;
+}
+
+.bg-cyan {
+    background-color: cyan;
+}
+h1{
+    font-size: 30px;
+}
+.text-gray{
+    color: lightgrey;
+}
+.text-blue{
+    color: cyan;
+}
+.text-small{
+    font-size: 10px;
+}
+/* header */
+#logo{
+    height: 50px;
+}
