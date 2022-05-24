@@ -29,5 +29,27 @@ h1{
 }
 /* header */
 #logo{
-    height: 50px;
+    width: 210px;
+}
+header{
+    background-image: url(bonus/pattern.png);
+    background-size: contain;
+    padding-top: 20px;
+}
+/* fine header */
+/* footer */
+#monitor {background-image: url(bonus/monitor.jpg);
+}
+
+#graph {background-image: url(bonus/graph.jpg);   
+}
+
+.footer-img {
+    background-size: contain;
+    width: 200px;
+    height: 150px;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: bold;
+    text-align: center;
 }
